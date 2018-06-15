@@ -1,0 +1,7 @@
+{
+    "name": "MDList",
+    "types": ["md_list"],
+    "classRef": MDListViz,
+    "context": ["inputs"],
+    "desc": "Permits showing Metadata set in a table"
+}
